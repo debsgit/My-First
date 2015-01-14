@@ -1,2 +1,3 @@
 # My-First
-Testing out 
+Testing out
+Trying to figure out how GitHub works
